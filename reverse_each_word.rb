@@ -6,3 +6,5 @@ def reverse_each_word(string)
 end
   return_array.join(" ")
 end
+
+reverse_each_word(["hahah", "jsjsjs", "ofofof"])
